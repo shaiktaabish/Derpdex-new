@@ -176,7 +176,7 @@ a {
 
 .button.big {
   background-color: #fff;
-  background-image: url('../images/Vector.svg');
+  background-image: url('../images/Vector_4.svg');
   background-position: 50% 100%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -584,7 +584,7 @@ a {
 }
 
 .button-bg-color {
-  background-image: url('../images/Vector.svg');
+  background-image: url('../images/Vector_3.svg');
   background-position: 50% 100%;
   background-size: 100%;
 }
@@ -597,8 +597,13 @@ a {
   background-image: url('../images/bg-buttoncard.svg');
   background-position: 50% 100%;
   background-repeat: no-repeat;
+  background-size: cover;
   border-radius: .75em;
   padding: 1px 1px 0;
+}
+
+.button-bg-color.bg-nav {
+  background-image: url('../images/button-topo.svg');
 }
 
 .max-624 {
@@ -885,7 +890,7 @@ a {
   }
 
   .max-438-21px.w--current {
-    max-width: 15em;
+    max-width: 22em;
   }
 
   .image {
