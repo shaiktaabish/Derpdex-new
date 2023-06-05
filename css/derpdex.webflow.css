@@ -79,8 +79,8 @@ a {
 }
 
 .side-293px {
-  padding-left: 18.31em;
-  padding-right: 18.31em;
+  padding-left: 8.38em;
+  padding-right: 8.38em;
 }
 
 .header-strip {
@@ -124,7 +124,7 @@ a {
 
 .padding-16-24px {
   padding-top: 1em;
-  padding-bottom: 1.5em;
+  padding-bottom: 0;
 }
 
 .para-24px {
@@ -134,7 +134,7 @@ a {
 }
 
 .max-517px {
-  max-width: 32.31em;
+  max-width: 32em;
   margin-left: auto;
   margin-right: auto;
 }
@@ -186,10 +186,6 @@ a {
 
 .padding-bottom-50px {
   padding-bottom: 3.13em;
-}
-
-.padding-top-10px {
-  padding-top: .63em;
 }
 
 .navbar1_component {
@@ -619,6 +615,14 @@ a {
   bottom: auto;
   left: 0%;
   right: 0%;
+}
+
+.max-258px {
+  max-width: 16.13em;
+}
+
+.padding-bottom-24px {
+  padding-bottom: 1.5em;
 }
 
 @media screen and (max-width: 991px) {
